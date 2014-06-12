@@ -8,3 +8,7 @@ categories: jekyll update
 ![](/images/1.jpg)
 
 ![](/images/3.jpg)
+
+![](/images/4.jpg)
+
+The youngest rubyist in histroy.
