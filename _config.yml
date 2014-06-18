@@ -4,6 +4,7 @@ email: nathan@pathsource.com
 description: "Pathsource Blog and Timeline"
 baseurl: ""
 url: "http://pathsource.github.com"
+username: "pathsource"
 
 # Build settings
 markdown: kramdown
