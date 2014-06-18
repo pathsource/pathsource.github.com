@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "2013-11-13 Meeting"
+date:   2013-11-13 17:50:00
+categories: jekyll update
+---
+
+![](/images/21.jpeg)
+
+![](/images/22.jpeg)
+
+![](/images/23.jpeg)
+
+![](/images/24.jpeg)
